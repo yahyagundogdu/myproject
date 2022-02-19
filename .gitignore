@@ -1,10 +1,6 @@
 /node_modules
-/public/hot
-/public/frontend
 /public/storage
 /storage/*.key
-/app/Http/Controllers/frontend
-/resources/views/frontend
 .env
 .env.backup
 .phpunit.result.cache
